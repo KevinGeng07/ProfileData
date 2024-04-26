@@ -1,4 +1,4 @@
-  Function to read data from .csv file "csv_read". Compiles data based on datatype and writes it to file .csv file "csv_write". 
+  Python 3.10+ function to read data from .csv file "csv_read". Compiles data based on datatype and writes it to file .csv file "csv_write". 
   In the compiled file, the first row contains all labels and first column contains all data types. Useful for data cleaning, 
   data profiling, or data visualization tasks.
 
